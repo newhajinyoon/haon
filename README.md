@@ -1,4 +1,5 @@
 
+
 # 하온
 미니게임,경제,주식 이런것들을 하나에!
 # 기능들
@@ -8,6 +9,21 @@
 
 ![image](https://user-images.githubusercontent.com/61103309/232328891-531bc9d4-934f-4406-9bbe-0e6e19377ed1.png)<br>
 낚시는 많은 낚을수 있는것들과 여러 이벤트들로 이루어져있습니다!
+#### 미끼
+미끼는 총 3가지가 있으며 (레어,에픽,전설 미끼)<br>
+낚시나 상점을 통해 얻을수 있습니다.<br>
+![image](https://user-images.githubusercontent.com/61103309/233285540-b34f466e-7d7b-45d9-a2ba-f15568e6218c.png)
+##### 미끼 사용
+레어 미끼 <br>
+![image](https://user-images.githubusercontent.com/61103309/233286118-e4cdd826-6f58-402a-a943-2712f8d56cec.png)
+에픽 미끼 <br>
+
+![image](https://user-images.githubusercontent.com/61103309/233285961-791dec87-6551-4ee6-b7ea-5e8a4423bf36.png)
+전설 미끼 <br>
+![image](https://user-images.githubusercontent.com/61103309/233285786-8ea82950-2b6b-4643-b796-5c53ae8f95ab.png)
+
+
+
 ### 도박
 ![image](https://user-images.githubusercontent.com/61103309/232328906-f09e5e02-d5ac-4bc3-9ac9-03486d161c7b.png)<br>
 가지고 있는 돈으로 도박을 할수 있습니다. (추후 더 추가예정) 
@@ -20,7 +36,9 @@
 현재 주가를 실시간으로 확인할수 있습니다.
 ## 돈 관련
 ### 내 정보확인
-![image](https://user-images.githubusercontent.com/61103309/232328898-1162665d-b75d-4be7-93d9-864203c2891a.png)<br>
+
+![image](https://user-images.githubusercontent.com/61103309/233285402-da8745c9-9025-48f4-b35d-371ee6285f45.png)
+<br>
 내 정보를 보다 편하게 확인할수 있습니다!
 ### 다른 사람의 정보 확인
 ![image](https://user-images.githubusercontent.com/61103309/232328927-6d58686a-4948-412a-9210-5d29bcdf8f0f.png)<br>
@@ -40,7 +58,7 @@
 
 ## 기타
 
-이 봇은 2023-4-26일에 개발이 시작되었고 아직 모든 기능을 구현하지 못했습니다.
+이 봇은 2023-4-26일에 개발이 시작되었고 아직 구현할 기능이 수두룩합니다.
 
 추후 구현 할것 리스트 :
 - 로또
