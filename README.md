@@ -67,3 +67,7 @@
 - 더 많은 도박
 - 다른 유저와 할수 있는 베팅
 - 자신의 순위 확인
+
+
+![image](https://user-images.githubusercontent.com/61103309/233552188-32fc927b-6c1f-4550-9e0e-7f2126111ef0.png)
+
