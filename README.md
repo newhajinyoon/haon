@@ -69,5 +69,6 @@
 - 자신의 순위 확인
 
 
-![image](https://user-images.githubusercontent.com/61103309/233552188-32fc927b-6c1f-4550-9e0e-7f2126111ef0.png)
+![adaddasadsdsadas](https://user-images.githubusercontent.com/61103309/233552412-44553893-03f4-4cf8-b6a6-a47baee8b2bf.png)
+
 
